@@ -1,4 +1,4 @@
-rootProject.name = "kasechange"
+rootProject.name = "@PROJECT_NAME@"
 
 pluginManagement {
     val multigradleVersion: String by settings
