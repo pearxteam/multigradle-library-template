@@ -1,4 +1,4 @@
-# @PROJECT_NAME_BEAUTIFUL@ [![Maven Central](https://img.shields.io/maven-central/v/net.pearx.@PROJECT_NAME@/@PROJECT_NAME@.svg?label=version&logo=kotlin&logoColor=white)](https://search.maven.org/search?q=g:%22net.pearx.@PROJECT_NAME@%22%20AND%20a:%22@PROJECT_NAME%22) [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
+# @PROJECT_NAME_BEAUTIFUL@ [![Maven Central](https://img.shields.io/maven-central/v/net.pearx.@PROJECT_NAME@/@PROJECT_NAME@.svg?label=version&logo=kotlin&logoColor=white)](https://search.maven.org/search?q=g:%22net.pearx.@PROJECT_NAME@%22%20AND%20a:%22@PROJECT_NAME@%22) [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 [![License](https://img.shields.io/github/license/pearxteam/@PROJECT_NAME@.svg)](https://raw.githubusercontent.com/pearxteam/@PROJECT_NAME@/master/LICENSE.TXT)
 [![Discord](https://img.shields.io/discord/136085738151346176.svg?logo=discord&logoColor=white)](https://discord.gg/q9cX9QE)
 ![Test & Deploy | develop](https://github.com/pearxteam/@PROJECT_NAME@/workflows/Test%20&%20Deploy%20%7C%20develop/badge.svg?branch=develop)
@@ -44,7 +44,7 @@
  // or
  implementation("net.pearx.@PROJECT_NAME@:@PROJECT_NAME@-android:$@PROJECT_NAME@Version") // for Android
  // or
- implementation("net.pearx.@PROJECT_NAME@:@PROJECT_NAME@-PLATFORM_YOU_WAN:$@PROJECT_NAME@Version") // for Native
+ implementation("net.pearx.@PROJECT_NAME@:@PROJECT_NAME@-PLATFORM_YOU_WANT:$@PROJECT_NAME@Version") // for Native
 ```
 
 2. Use the library and have fun!
