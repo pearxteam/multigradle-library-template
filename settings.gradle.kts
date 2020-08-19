@@ -11,11 +11,6 @@ pluginManagement {
         id("net.pearx.multigradle.simple.settings") version multigradleVersion
         id("com.github.breadmoirai.github-release") version githubReleaseVersion
     }
-
-    repositories {
-        mavenLocal()
-        gradlePluginPortal()
-    }
 }
 
 plugins {
